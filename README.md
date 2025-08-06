@@ -1,28 +1,25 @@
 ## Hi there, I'm Suraya 👋
 
-🎓 Currently studying **Full Stack Development**  
-💻 Passionate about building web apps, learning new technologies, and collaborating on exciting projects!
+🎓 Currently studying **Full Stack Development** at **FemCoders** from [Factoría F5](https://factoriaf5.org/).
 
+### About Me
 
-### 🚀 About Me
+- 🧠 Now learning: Javascript, React.js, Node.js.
+  
+- 💜 Ask me about: HTML, CSS, Git, traveling, books, languages.
+  
+- 🌍 Fun fact:
+  - I love to travel, explore new places and learn about different cultures.
+  - I can speak 5 languages (Portuguese, English, Spanish, French, and Catalan) - and looking foward to learn a new one.
 
-- I’m currently learning:  
-  HTML, CSS, Javascript, React.js, Node.js.
-  
-- I’m looking to collaborate on:  
-  Open source projects, web applications, or anything involving creative front-end work.
-  
-- I’m looking for help with:  
-  Improving my backend skills and understanding of DevOps workflows.
-  
-- Ask me about:  
-  HTML, CSS, JavaScript, Git, or tips on getting started in full stack development.
-  
-- How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/suraya-mattar) • [Email](mailto:surayacsm@gmail.com)
-  
-- Fun fact:  
-  I can speak 5 languages and I am looking foward to learn a new one.
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suraya-mattar"><img src="https://img.shields.io/badge/LinkedIn-0077B5" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:surayacsm@gmail.com"><img src="https://img.shields.io/badge/Email-bf7878" alt="Email"></a>
+</p>
+
 
 
 
