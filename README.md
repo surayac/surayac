@@ -10,7 +10,7 @@
   
 - 🌍 Fun fact:
   - I love to travel, explore new places and learn about different cultures.
-  - I can speak 5 languages (Portuguese, English, Spanish, French, and Catalan) - and looking foward to learn a new one.
+  - I can speak 5 languages.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraya-mattar"><img src="https://img.shields.io/badge/LinkedIn-0077B5" alt="LinkedIn"></a>
