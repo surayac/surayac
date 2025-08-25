@@ -6,9 +6,9 @@
 
 - 🧠 Now learning: Javascript, React.js, Node.js.
   
-- 💜 Ask me about: HTML, CSS, Git, traveling, books, languages.
+- 💜 Ask me about: Traveling, books, and languages.
   
-- 🌍 Fun fact:
+- 🌍 Fun facts:
   - I love to travel, explore new places and learn about different cultures.
   - I can speak 5 languages.
 
