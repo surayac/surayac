@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🧠 Now learning: Javascript, React.js, Node.js.
+- 🧠 Now learning: Javascript, React.js, Java, PostgreSQL.
   
 - 💜 Ask me about: Traveling, books, and languages.
   
