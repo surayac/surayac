@@ -1,11 +1,10 @@
 ## Hi there, I'm Suraya 👋
 
 # 💫 About Me:
-I'm a full-stack developer currently working on projects using Java for the backend and React for the frontend. I'm passionate about building scalable web applications and continuously improving my skills.
+I'm a full-stack developer currently working on projects using Java or Ruby on Rails for the backend and React for the frontend. I'm passionate about building scalable web applications and continuously improving my skills.
+This account is for my personal projects and learning.
 
-Currently learning: Docker and system design <br>
-Open to collaboration and new opportunities.
-
+💼**Work Github**: https://github.com/surayamattar
 
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraya-mattar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surayacsm@gmail.com) 
